@@ -1,0 +1,18 @@
+@font-face {
+    font-family: "Outfit";
+    src: url("resorces/Outfit-Bold.ttf");
+}
+@font-face {
+    font-family: "outfitlight";
+    src: url("resorces/Outfit-Regular.ttf");
+}
+.qrimg{
+    width: 100%;
+    height: 100%;
+    border-radius: 10px;
+}
+.dv{
+    
+    border-radius: 5%;
+}
+
